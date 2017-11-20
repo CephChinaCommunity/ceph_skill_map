@@ -19,4 +19,4 @@ Markdown编码约束
 
 "###"为三级标题, 以此类推
 
-![ceph_skill_map_v1](ceph_skill_map/ceph_skill_mapv1.jpg)
+![ceph_skill_map_v1](https://github.com/CephChinaCommunity/ceph_skill_map/blob/master/ceph_skill_map_v1.jpg)
