@@ -20,3 +20,19 @@ Markdown编码约束
 "###"为三级标题, 以此类推
 
 ![ceph_skill_map_v1](https://github.com/CephChinaCommunity/ceph_skill_map/blob/master/ceph_skill_map_v1.jpg)
+
+Version 2.0：
+
+该版本主要涵盖Ceph运维日常操作相关知识：包含通用场景操作、RBD/RGW等，期待有人加入CephFS相关操作。
+
+
+感谢秦牧羊（郭峰）对本文档内容前期技术支持。愿意对社区Ceph技能树有提交的请按照Markdown格式进行编写：）
+
+Markdown编码约束
+
+"#"为一级标题
+
+"##"为二级标题
+
+"###"为三级标题, 以此类推
+![ceph_skill_map_v2](https://github.com/CephChinaCommunity/ceph_skill_map/blob/master/ceph_skill_map_v2.jpg)
